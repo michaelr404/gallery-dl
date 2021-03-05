@@ -48,10 +48,14 @@ Futaba Channel       https://www.2chan.net/              Threads
 Gelbooru             https://gelbooru.com/               Pools, Posts, Tag Searches
 Gfycat               https://gfycat.com/                 individual Images, Search Results, User Profiles
 HBrowse              https://www.hbrowse.com/            Chapters, Manga
+Yaoi                 https://yaoi.mobi/                  Yaoi, Popular Images, Posts, Tag Searches
+Manytoon             https://manytoon.com/               Manhwa, Chapters, Manga
 Hentai Cafe          https://hentai.cafe/                Chapters, Manga, Search Results, Tag Searches
+Mangahentai          https://mangahentai.me/             Manhwa, Chapters, Manga
 Hentai Foundry       https://www.hentai-foundry.com/     |hentaifoundry-C|
 Hentai2Read          https://hentai2read.com/            Chapters, Manga
 HentaiFox            https://hentaifox.com/              Galleries, Search Results
+Freecomiconline      https://freecomiconline.me/         Webtoon, Manhua Images, Posts, Tag Searches
 HentaiHand           https://hentaihand.com/             Galleries, Tag Searches
 HentaiHere           https://hentaihere.com/             Chapters, Manga
 Hentainexus          https://hentainexus.com/            Galleries, Search Results
@@ -161,7 +165,6 @@ Weibo                https://www.weibo.com/              Images from Statuses, U
 WikiArt.org          https://www.wikiart.org/            |wikiart-C|
 xHamster             https://xhamster.com/               Galleries, User Profiles
 XVideos              https://www.xvideos.com/            Galleries, User Profiles
-Yandere              https://yande.re/                   Pools, Popular Images, Posts, Tag Searches
 |yuki-S|             https://yuki.la/                    Threads
 かべうち                 https://kabe-uchiroom.com/          User Profiles
 もえぴりあ                https://vanilla-rock.com/           Posts, Tag Searches
